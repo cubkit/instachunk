@@ -3,7 +3,7 @@ Instachunk, is a library for making near infinite worlds. It can also be built &
 
 ## Examples
 
-Their is one example of how to use instachunk. It is called instaview, and outputs images for chunks in the world.
+Their are two example of how to use instachunk. The first one is called instaview, and outputs images for chunks in the world. The second one is simply called 3d, and it is *very* usefull for debuging instachunk, and finding out what the terrain looks like without using blender.
 
 ## License
 

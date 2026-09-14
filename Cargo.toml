@@ -1,6 +1,6 @@
 [package]
 name = "instachunk"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 description = "Near-infinite procedural worlds"
@@ -16,3 +16,4 @@ opensimplex_noise_rs = "0.3.0"
 
 [dev-dependencies]
 image = "0.25.10"
+threadpool = "1.8.1"
